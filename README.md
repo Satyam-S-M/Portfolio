@@ -1,8 +1,8 @@
 # Satyam Shree Mahanta - Technical Portfolio
-**MTech Thermal Engineering | NIT Rourkela**
+**MTech Thermal Engineering**
 
 ## About Me
-Currently pursuing MTech in Thermal Engineering with hands-on 
+Currently pursuing MTech in Thermal Engineering at NIT, Rourkela with hands-on 
 experience in CFD simulations, IoT hardware, and CAD design.
 
 ## Skills
