@@ -1,4 +1,4 @@
-# Technical Portfolio - Satyam Shree Mahanta
+# Satyam Shree Mahanta - Technical Portfolio
 **MTech Thermal Engineering | NIT Rourkela**
 
 ## About Me
