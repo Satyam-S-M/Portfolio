@@ -20,7 +20,7 @@ Designed and analysed heat transfer, nusselt number, temperature and other flow 
 Real-time monitoring system for solar cookers using ESP8266
 
 ### 3. Omni-direction Arduino Bot using Mechanum wheels
-By using Mechanum wheels, omnidirectional motion was achieved on an Arduino-controlled bot without requiring the turning of wheels.
+By using Mechanum wheels, omnidirectional motion was achieved on a bluetooth-controlled arduino bot.
 
 ### 4. IoT Weather Station
 Real-time monitoring system for basic weather conditions (temperature and humidity) using ESP8266
