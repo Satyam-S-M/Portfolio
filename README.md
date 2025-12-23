@@ -15,7 +15,7 @@ experience in CFD simulations, IoT hardware, and CAD design.
 
 ### 1. CAD design and CFD analysis of a Thermal Capillary Mass Flowmeter in ANSYS Fluent
 Designed and analysed heat transfer, nusselt number, temperature and other flow parameters for a thermal capillary mass flowmeter using ANSYS Spaceclaim and ANSYS Fluent.
-[View Project →](./thermal-flowmeter-cfd)
+[View Project →](./flowmeter-cfd-analysis)
 
 ### 2. IoT Solar Cooker Monitoring
 Real-time monitoring system for solar cookers using ESP8266
