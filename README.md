@@ -18,13 +18,13 @@ Designed and analysed heat transfer, nusselt number, temperature and other flow 
 [View Project →](./flowmeter-cfd-analysis)
 
 ### 2. IoT Solar Cooker Monitoring
-Real-time monitoring system for solar cookers using ESP8266
+Real-time monitoring system for solar cookers using ESP8266, DHT11, DS18B20, MAX6675 Thermocouple. 
 
 ### 3. Omni-direction Arduino Bot using Mechanum wheels
 By using Mechanum wheels, omnidirectional motion was achieved on a bluetooth-controlled arduino bot.
 
 ### 4. IoT Weather Station
-Real-time monitoring system for basic weather conditions (temperature and humidity) using ESP8266
+Real-time monitoring system for basic weather conditions (temperature and humidity) using ESP8266 and DHT11.
 
 ## Contact
 - Email: satyam1shree2mahanta3@gmail.com
